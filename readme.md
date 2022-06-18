@@ -22,9 +22,3 @@ Requerimientos
 
 6. Crear una ruta genérica que devuelva un mensaje diciendo “Esta página no existe...” al consultar una ruta que no esté definida en el servidor.
 
-Proyecto realizado en grupo por:
-
-- Fabian Pino
-- Alvaro Olivares
-- Tomas Pinto
-- Juan Rodriguez
